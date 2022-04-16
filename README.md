@@ -6,7 +6,7 @@ This repository specializes in backing up (manually) applications and source cod
 
 ## 下载 Download
 
-[![](/Icalingua%2B%2B/content/D.png)](https://zkitefly.github.io/Icalingua-plus-plus-releases-Backup/Icalingua%2B%2B/content/README.html)
+[![](/D.png)](https://zkitefly.github.io/Icalingua-plus-plus-releases-Backup/Icalingua%2B%2B/content/README.html)
 
 ## 免责申明 Disclaimer
 
